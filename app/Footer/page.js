@@ -23,7 +23,7 @@ const Footer = () => {
       </div>
       <div className=" w-full bg-white h-[.1vw]"></div>
       <p className=" max-sm:pt-2 font-semibold italic text-white xl:text-2xl">
-        © 2019 Zetter All Rights Reserved
+        © 2022 Buildz All Rights Reserved
       </p>
     </div>
   );
